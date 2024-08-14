@@ -62,3 +62,5 @@ DELETE /bots/
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes relevant tests.
 
+# Live Demo
+You can access the live application at https://bots-park.vercel.app/
