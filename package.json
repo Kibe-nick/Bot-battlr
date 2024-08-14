@@ -1,0 +1,22 @@
+{
+  "name": "bot-battlr",
+  "version": "1.0.0",
+  "description": "A React project using Vite for building a bot management application.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "start-server": "json-server --watch db.json --port 8001"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.2.0",
+    "json-server": "^1.0.0-beta.1",
+    "vite": "^3.2.10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
